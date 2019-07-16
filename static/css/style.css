@@ -1,15 +1,29 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-<body>
+p{
+    font-style: impact;
+}
+h1 {
+    color: red;
+    text-align: center;
+  }
 
+h4 {
+    border-style: ridge;
+    color: black;
+    text-align: center;
+    
+}
 
+body{
+    background-image: url("../images/8bit.jpg");
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
 
-</body>
-</html>
